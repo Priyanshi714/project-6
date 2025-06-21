@@ -1,2 +1,3 @@
 # project-6
-Modern UI/UX redesign of the Amul website built during Sheryians’ Reimagine Hackathon. Features smooth animations, responsive layout, and enhanced user interaction using HTML, CSS, and GSAP. Led by Anshika Srivastava with a creative team of frontend developers and UI/UX designers.
+Amul Website Redesign – Reimagine Hackathon Project
+Our team revamped the Amul website with a dynamic front-end design, focusing on seamless animations and enhanced user interaction. This project features responsive layouts and smooth transitions using HTML, CSS, and GSAP (GreenSock Animation Platform). Interactive elements were developed in close collaboration with designers to boost user engagement and deliver a modern, intuitive user experience.
